@@ -1,0 +1,12 @@
+{
+  "mysqlDs": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "8omtracker",
+    "password": "root",
+    "name": "mysqlDs",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
